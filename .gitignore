@@ -1,0 +1,14 @@
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.o
+*.su
+*.d
+
+.metadata/
+RemoteSystemsTempFiles/
+*.log
